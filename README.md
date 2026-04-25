@@ -3,6 +3,13 @@
 Python SDK for the GMGN OpenAPI, ported from the official TypeScript
 `gmgn-cli` client surface.
 
+This is an unofficial community project. It is not published by GMGN, and it
+should not be presented as an official GMGN SDK.
+
+The implementation was developed with strong AI assistance using OpenAI Codex,
+then exercised against the real GMGN API in this repository's verification
+workflow.
+
 This repository is intentionally SDK-only:
 
 - no Python CLI wrapper
